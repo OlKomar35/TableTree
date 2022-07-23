@@ -48,5 +48,6 @@ public class TableTree extends JDialog {
 
     System.out.println(5);
     return jxTable;
+
   }
 }
