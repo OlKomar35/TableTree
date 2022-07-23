@@ -47,5 +47,6 @@ public class TableTree extends JDialog {
     jxTable.getColumnModel().getColumn(0).setCellRenderer(new ActiveColumnCellRenderer());
     return jxTable;
 
+
   }
 }
